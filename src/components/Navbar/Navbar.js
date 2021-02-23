@@ -36,7 +36,7 @@ const Navbox = styled.div`
     width: 100%;
     z-index: 9;
     justify-content: flex-start;
-    background-color: #060144;
+    background-color: #0E1E33;
     transition: all 0.3s ease-in;
     left: ${(props) => (props.open ? "-100%" : "0")};
     padding-top: 20%;

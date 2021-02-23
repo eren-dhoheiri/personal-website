@@ -1,5 +1,5 @@
 {
-  "homepage": "http://erendhoheiri.github.io/personal-website",
+  "homepage": "http://eren-dhoheiri.github.io/personal-website",
   "name": "personal-website-react",
   "private": true,
   "description": "A simple portfolio website developed quickly with Gatsby",
@@ -34,7 +34,7 @@
     "develop": "gatsby develop",
     "start": "npm run develop",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "format": "prettier --write \"src/**/*.js\"",
     "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\""
   },

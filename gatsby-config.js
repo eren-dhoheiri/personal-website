@@ -1,7 +1,7 @@
 module.exports = {
+  pathPrefix: "/personal-website",
   siteMetadata: {
     title: "Eren | Personal Website",
-    siteUrl: "http://erendhoheiri.me",
   },
   plugins: [
     "gatsby-plugin-react-helmet",
