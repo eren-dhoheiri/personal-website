@@ -3,7 +3,7 @@ import favicon from "../assets/images/eren-favicon.png";
 export const aboutWebsite = {
   "@context": "http://schema.org",
   "@type": "WebSite",
-  url: "http://erendhoheiri.me",
+  url: "http://erendhoheiri.xyz",
   name: "Eren Dhoheiri | Software Engineer",
   author: {
     "@type": "Person",

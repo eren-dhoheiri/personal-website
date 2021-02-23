@@ -1,7 +1,7 @@
 export default [
   {
     id: 1,
-    name: "Someone",
+    name: "ND",
     designation: "Software Engineer, Kompas Gramedia",
     userLink: "https://www.linkedin.com/in/",
     dated: "February 08, 2021",

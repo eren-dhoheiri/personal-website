@@ -26,7 +26,7 @@ const IndexPage = () => {
               applications, and everything in between.
             </p>
             <DownloadButton
-              href="https://drive.google.com/file/d/1XvmOu33pP_HXnA-ok3G8lmi2jCV1ZME7/view?usp=sharing"
+              href="https://github.com/eren-dhoheiri/personal-website/blob/master/Resume-Eren-Dhoheiri.pdf"
               download
               title="Resume"
             >

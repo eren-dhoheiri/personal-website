@@ -1,7 +1,7 @@
 {
   "version": 2,
   "name": "personal-website-react",
-  "alias": "erendhoheiri.me",
+  "alias": "erendhoheiri.xyz",
   "builds": [
     {
       "src": "package.json",
